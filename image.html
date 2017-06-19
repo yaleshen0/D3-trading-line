@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<style type="text/css">
+	.area.above {
+	  fill: #936c29;
+	}
+	.area.below {
+	  fill: #2a592d;
+	}
+</style>
+<svg width="960" height="500"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+
+var svg = d3.select("svg"),
+    margin = {top: 20, right: 20, bottom: 30, left: 50},
+    width = +svg.attr("width") - margin.left - margin.right,
+    height = +svg.attr("height") - margin.top - margin.bottom,
+    g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var parseTime = d3.timeParse("%H:%M");
+
+function timeStrToDate(timeStr) {
+    var time = timeStr.split(':');
+    var d = new Date();
+    d.setHours  (+time[0]);
+    d.setMinutes( time[1]);
+    d.setSeconds( time[2]);
+    return d;
+  }
+
+var x = d3.scaleTime()
+    .rangeRound([0, width]);
+
+var y0 = d3.scaleLinear()
+    .rangeRound([height, 0]);
+var y1 = d3.scaleLinear()
+    .rangeRound([height, 0]);
+
+var y = d3.scaleLinear().range([height, 0]);
+var area = d3.area()
+    .x(function(d) { return x(d.timeStr); })
+    .y0(function(d) { return y0(+d.ask); })
+    // .y1(function(d) { return y1(+d.bid); })
+    .curve(d3.curveStepAfter);
+
+var area1 = d3.area()
+    .x(function(d) { return x(d.timeStr); })
+    // .y0(function(d) { return y0(+d.ask); })
+    .y1(function(d) { return y1(+d.bid); })
+    .curve(d3.curveStepAfter);
+
+d3.json("bboList.json", function(error, data) {
+  if (error) throw error;
+
+  data = data.bboList;
+  data.forEach(function(d) {
+  	d.timeStr = timeStrToDate(d.timeStr);
+  	d.ask = +(d.ask / 10000);
+  	d.bid = +(d.bid / 10000);
+    return d;
+  });
+
+  x.domain(d3.extent(data, function(d) { return d.timeStr; }))
+  
+  var min = d3.min(data, function(d) { return Math.min(d.ask, d.bid); });
+  var max = d3.max(data, function(d) { return Math.max(d.ask, d.bid); });
+
+  y.domain([min, max]);
+
+  y0.domain([min, max]);
+  y1.domain([min, max]);
+
+// area below
+  g.append("path")
+      .datum(data)
+      .attr("class", "area above")
+      .attr("d", area.y1(0));
+  g.append("path")
+      .datum(data)
+      .attr("class", "area below")
+      .attr("d", area1.y0(height));
+
+  // Add the X Axis
+  g.append("g")
+      .attr("transform", "translate(0," + height + ")")
+      .call(d3.axisBottom(x));
+
+  g.append("g")
+      .call(d3.axisLeft(y))
+    .append("text")
+      .attr("fill", "#000")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 10)
+      .attr("dy", "0.71em")
+      .attr("text-anchor", "end")
+      .text("Price ($)");
+});
+
+</script>

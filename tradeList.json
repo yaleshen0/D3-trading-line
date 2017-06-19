@@ -1,0 +1,1365 @@
+{
+	"tradeList": [
+    {
+      "orderReferenceNumber": 13983473,
+      "price": 233200,
+      "shares": 100,
+      "time": 34574353918784,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 13983473,
+      "price": 233200,
+      "shares": 100,
+      "time": 34586652937952,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 13983473,
+      "price": 233200,
+      "shares": 100,
+      "time": 34591808534547,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 14109397,
+      "price": 233200,
+      "shares": 200,
+      "time": 34591808534547,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 14301933,
+      "price": 233200,
+      "shares": 100,
+      "time": 34591808684978,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 14301933,
+      "price": 233200,
+      "shares": 200,
+      "time": 34591809619510,
+      "tradeType": "E"
+    },
+    {
+      "attribution": " ",
+      "orderReferenceNumber": -1,
+      "price": 233200,
+      "shares": 200,
+      "time": 34591809619510,
+      "tradeType": "P"
+    },
+    {
+      "orderReferenceNumber": 14301953,
+      "price": 233200,
+      "shares": 300,
+      "time": 34591811470509,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 14302117,
+      "price": 233200,
+      "shares": 100,
+      "time": 34591811548624,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 14302117,
+      "price": 233200,
+      "shares": 100,
+      "time": 34591812025507,
+      "tradeType": "E"
+    },
+    {
+      "attribution": " ",
+      "orderReferenceNumber": -1,
+      "price": 234400,
+      "shares": 100,
+      "time": 34639679231825,
+      "tradeType": "P"
+    },
+    {
+      "orderReferenceNumber": 14879957,
+      "price": 234500,
+      "shares": 100,
+      "time": 34644166135897,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 14879957,
+      "price": 234500,
+      "shares": 100,
+      "time": 34647232978817,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 14879957,
+      "price": 234500,
+      "shares": 200,
+      "time": 34647628774873,
+      "tradeType": "E"
+    },
+    {
+      "attribution": " ",
+      "orderReferenceNumber": -1,
+      "price": 234500,
+      "shares": 100,
+      "time": 34647628801538,
+      "tradeType": "P"
+    },
+    {
+      "orderReferenceNumber": 15174985,
+      "price": 234500,
+      "shares": 100,
+      "time": 34650749569723,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 15174985,
+      "price": 234500,
+      "shares": 100,
+      "time": 34663559489433,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 29309925,
+      "price": 233000,
+      "shares": 100,
+      "time": 35682869237514,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 29740545,
+      "price": 233000,
+      "shares": 100,
+      "time": 35682869237514,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 30405841,
+      "price": 233400,
+      "shares": 100,
+      "time": 35683404965400,
+      "tradeType": "E"
+    },
+    {
+      "attribution": " ",
+      "orderReferenceNumber": -1,
+      "price": 233500,
+      "shares": 100,
+      "time": 35789912512522,
+      "tradeType": "P"
+    },
+    {
+      "orderReferenceNumber": 33205537,
+      "price": 233100,
+      "shares": 100,
+      "time": 35922957669773,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 33205541,
+      "price": 233100,
+      "shares": 100,
+      "time": 35922957669773,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 37219861,
+      "price": 233200,
+      "shares": 100,
+      "time": 36195803385896,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 37219861,
+      "price": 233200,
+      "shares": 200,
+      "time": 36195803427410,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 37079185,
+      "price": 233600,
+      "shares": 100,
+      "time": 36195860504999,
+      "tradeType": "E"
+    },
+    {
+      "attribution": " ",
+      "orderReferenceNumber": -1,
+      "price": 233400,
+      "shares": 200,
+      "time": 36223458835696,
+      "tradeType": "P"
+    },
+    {
+      "orderReferenceNumber": 39658353,
+      "price": 233500,
+      "shares": 100,
+      "time": 36385651197569,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 37295741,
+      "price": 233300,
+      "shares": 100,
+      "time": 36415140984163,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 50585929,
+      "price": 233400,
+      "shares": 50,
+      "time": 37195077863322,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 50585929,
+      "price": 233400,
+      "shares": 50,
+      "time": 37195077902899,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 54648193,
+      "price": 233700,
+      "shares": 100,
+      "time": 37448459007998,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 63332169,
+      "price": 234100,
+      "shares": 100,
+      "time": 38164096290557,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 64391045,
+      "price": 234100,
+      "shares": 100,
+      "time": 38164110058969,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 64717865,
+      "price": 234100,
+      "shares": 100,
+      "time": 38247892667786,
+      "tradeType": "E"
+    },
+    {
+      "attribution": " ",
+      "orderReferenceNumber": -1,
+      "price": 234100,
+      "shares": 100,
+      "time": 38247892667786,
+      "tradeType": "P"
+    },
+    {
+      "orderReferenceNumber": 65408717,
+      "price": 234100,
+      "shares": 100,
+      "time": 38247902415292,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 65408913,
+      "price": 234000,
+      "shares": 200,
+      "time": 38346178047943,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 69710929,
+      "price": 234300,
+      "shares": 100,
+      "time": 38655118026611,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 69711049,
+      "price": 234300,
+      "shares": 100,
+      "time": 38655119388228,
+      "tradeType": "E"
+    },
+    {
+      "attribution": " ",
+      "orderReferenceNumber": -1,
+      "price": 233700,
+      "shares": 100,
+      "time": 39030468276642,
+      "tradeType": "P"
+    },
+    {
+      "orderReferenceNumber": 77421857,
+      "price": 233200,
+      "shares": 100,
+      "time": 39477064127920,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 78599325,
+      "price": 233200,
+      "shares": 100,
+      "time": 39477064267380,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 78600109,
+      "price": 232900,
+      "shares": 100,
+      "time": 39477188547282,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 78601009,
+      "price": 232900,
+      "shares": 100,
+      "time": 39477311750972,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 78657681,
+      "price": 232800,
+      "shares": 100,
+      "time": 39508230900174,
+      "tradeType": "E"
+    },
+    {
+      "attribution": " ",
+      "orderReferenceNumber": -1,
+      "price": 232800,
+      "shares": 30,
+      "time": 39508230925334,
+      "tradeType": "P"
+    },
+    {
+      "orderReferenceNumber": 78934281,
+      "price": 232800,
+      "shares": 100,
+      "time": 39508231011427,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 78934309,
+      "price": 232800,
+      "shares": 70,
+      "time": 39508232162400,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 78935249,
+      "price": 232600,
+      "shares": 100,
+      "time": 39509639990695,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 78935253,
+      "price": 232600,
+      "shares": 100,
+      "time": 39509639990695,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 78974833,
+      "price": 232900,
+      "shares": 100,
+      "time": 39517701205491,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 78601077,
+      "price": 233200,
+      "shares": 100,
+      "time": 39518418059195,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 84063013,
+      "price": 232700,
+      "shares": 100,
+      "time": 39979204227510,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 73336413,
+      "price": 232500,
+      "shares": 31,
+      "time": 39979207245454,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 73336413,
+      "price": 232500,
+      "shares": 369,
+      "time": 40071519064951,
+      "tradeType": "E"
+    },
+    {
+      "attribution": " ",
+      "orderReferenceNumber": -1,
+      "price": 232200,
+      "shares": 100,
+      "time": 40071535441254,
+      "tradeType": "P"
+    },
+    {
+      "orderReferenceNumber": 85224033,
+      "price": 232100,
+      "shares": 200,
+      "time": 40071535441254,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 85224053,
+      "price": 232100,
+      "shares": 83,
+      "time": 40071535441254,
+      "tradeType": "E"
+    },
+    {
+      "attribution": " ",
+      "orderReferenceNumber": -1,
+      "price": 231400,
+      "shares": 100,
+      "time": 40347218445163,
+      "tradeType": "P"
+    },
+    {
+      "orderReferenceNumber": 93589517,
+      "price": 231200,
+      "shares": 100,
+      "time": 40926802855311,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 93513317,
+      "price": 231400,
+      "shares": 100,
+      "time": 40937926245278,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 93589405,
+      "price": 231400,
+      "shares": 100,
+      "time": 40937926245278,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 93784597,
+      "price": 231400,
+      "shares": 100,
+      "time": 40937926245278,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 93455589,
+      "price": 232100,
+      "shares": 1,
+      "time": 41129944681571,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 93455589,
+      "price": 232100,
+      "shares": 51,
+      "time": 41130435655206,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 94925177,
+      "price": 232600,
+      "shares": 50,
+      "time": 41211355911263,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 94925177,
+      "price": 232600,
+      "shares": 50,
+      "time": 41211355923421,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 96811661,
+      "price": 232600,
+      "shares": 200,
+      "time": 41219586284274,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 96886641,
+      "price": 232600,
+      "shares": 100,
+      "time": 41219586284274,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 96811653,
+      "price": 232500,
+      "shares": 50,
+      "time": 41219586723211,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 96811653,
+      "price": 232500,
+      "shares": 50,
+      "time": 41219587119329,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 96811653,
+      "price": 232500,
+      "shares": 100,
+      "time": 41219587146239,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 96811657,
+      "price": 232400,
+      "shares": 100,
+      "time": 41219587410490,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 98755145,
+      "price": 231800,
+      "shares": 2,
+      "time": 41400360788980,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 100156197,
+      "price": 231800,
+      "shares": 100,
+      "time": 41517126426395,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 100136389,
+      "price": 231900,
+      "shares": 50,
+      "time": 41666456403119,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 100136389,
+      "price": 231900,
+      "shares": 50,
+      "time": 41666456417217,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 100136389,
+      "price": 231900,
+      "shares": 15,
+      "time": 41666456438199,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 107404713,
+      "price": 232000,
+      "shares": 50,
+      "time": 42264823585459,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 107404713,
+      "price": 232000,
+      "shares": 150,
+      "time": 42264823587125,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 105291105,
+      "price": 231900,
+      "shares": 100,
+      "time": 42264824343316,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 103197329,
+      "price": 231800,
+      "shares": 150,
+      "time": 42264825308911,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 103197329,
+      "price": 231800,
+      "shares": 50,
+      "time": 42264825326666,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 107832649,
+      "price": 231800,
+      "shares": 50,
+      "time": 42264825421179,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 107832649,
+      "price": 231800,
+      "shares": 50,
+      "time": 42264825988296,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 107832769,
+      "price": 231500,
+      "shares": 100,
+      "time": 42264918096724,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 107832925,
+      "price": 231500,
+      "shares": 100,
+      "time": 42528100502971,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 122047773,
+      "price": 232100,
+      "shares": 100,
+      "time": 44034445522764,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 122047773,
+      "price": 232100,
+      "shares": 100,
+      "time": 44034445807383,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 119504673,
+      "price": 232000,
+      "shares": 199,
+      "time": 44034446352160,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 119504673,
+      "price": 232000,
+      "shares": 50,
+      "time": 44034446360539,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 119504673,
+      "price": 232000,
+      "shares": 50,
+      "time": 44034446665813,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 122748005,
+      "price": 232000,
+      "shares": 100,
+      "time": 44071610895855,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 124622769,
+      "price": 231900,
+      "shares": 100,
+      "time": 44345424766205,
+      "tradeType": "E"
+    },
+    {
+      "attribution": " ",
+      "orderReferenceNumber": -1,
+      "price": 231900,
+      "shares": 300,
+      "time": 44345424766205,
+      "tradeType": "P"
+    },
+    {
+      "orderReferenceNumber": 127096993,
+      "price": 231700,
+      "shares": 100,
+      "time": 44687254823796,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 127096629,
+      "price": 231600,
+      "shares": 100,
+      "time": 44693141184000,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 125997169,
+      "price": 231500,
+      "shares": 100,
+      "time": 44716075859977,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 127325965,
+      "price": 231800,
+      "shares": 100,
+      "time": 44773030389096,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 127721385,
+      "price": 232300,
+      "shares": 100,
+      "time": 44808856671663,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 128365305,
+      "price": 232500,
+      "shares": 100,
+      "time": 44858362734672,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 128246853,
+      "price": 232400,
+      "shares": 50,
+      "time": 44858363665240,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 128246853,
+      "price": 232400,
+      "shares": 50,
+      "time": 44858363690837,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 128675825,
+      "price": 232600,
+      "shares": 100,
+      "time": 44908768576984,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 128675829,
+      "price": 232600,
+      "shares": 100,
+      "time": 44908768576984,
+      "tradeType": "E"
+    },
+    {
+      "attribution": " ",
+      "orderReferenceNumber": -1,
+      "price": 232600,
+      "shares": 300,
+      "time": 44908768576984,
+      "tradeType": "P"
+    },
+    {
+      "orderReferenceNumber": 128724125,
+      "price": 232500,
+      "shares": 50,
+      "time": 44908868847429,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 128724125,
+      "price": 232500,
+      "shares": 50,
+      "time": 44908868877224,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 131084969,
+      "price": 232400,
+      "shares": 200,
+      "time": 45277142931531,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 132698821,
+      "price": 232400,
+      "shares": 100,
+      "time": 45999925415911,
+      "tradeType": "E"
+    },
+    {
+      "attribution": " ",
+      "orderReferenceNumber": -1,
+      "price": 232300,
+      "shares": 200,
+      "time": 45999927098758,
+      "tradeType": "P"
+    },
+    {
+      "orderReferenceNumber": 136247981,
+      "price": 232000,
+      "shares": 100,
+      "time": 46000262567623,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 136958905,
+      "price": 232600,
+      "shares": 100,
+      "time": 46810942044933,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 137934373,
+      "price": 232700,
+      "shares": 100,
+      "time": 46810942691873,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 141870717,
+      "price": 233000,
+      "shares": 100,
+      "time": 47074553659837,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 142582345,
+      "price": 233000,
+      "shares": 100,
+      "time": 47074553659837,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 130964197,
+      "price": 233400,
+      "shares": 100,
+      "time": 47076966870815,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 143749173,
+      "price": 233600,
+      "shares": 200,
+      "time": 47078019122284,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 143756221,
+      "price": 233500,
+      "shares": 100,
+      "time": 47079202978808,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 145992925,
+      "price": 232700,
+      "shares": 100,
+      "time": 47487744824647,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 146668605,
+      "price": 232700,
+      "shares": 100,
+      "time": 47649568094308,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 147563085,
+      "price": 232700,
+      "shares": 100,
+      "time": 47649568195193,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 149142525,
+      "price": 232700,
+      "shares": 100,
+      "time": 47916910245633,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 147703977,
+      "price": 232900,
+      "shares": 37,
+      "time": 47916911644078,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 147703977,
+      "price": 232900,
+      "shares": 150,
+      "time": 47916911812625,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 147703977,
+      "price": 232900,
+      "shares": 13,
+      "time": 47916911830690,
+      "tradeType": "E"
+    },
+    {
+      "attribution": " ",
+      "orderReferenceNumber": -1,
+      "price": 233000,
+      "shares": 100,
+      "time": 48256364462070,
+      "tradeType": "P"
+    },
+    {
+      "orderReferenceNumber": 157813409,
+      "price": 232800,
+      "shares": 63,
+      "time": 49202843380123,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 157813409,
+      "price": 232800,
+      "shares": 37,
+      "time": 49202845048087,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 167904677,
+      "price": 232900,
+      "shares": 100,
+      "time": 49949165773492,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 170073405,
+      "price": 232700,
+      "shares": 100,
+      "time": 49949368245071,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 170073405,
+      "price": 232700,
+      "shares": 47,
+      "time": 49949368323029,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 172893329,
+      "price": 232800,
+      "shares": 100,
+      "time": 50330005580376,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 172425493,
+      "price": 232900,
+      "shares": 50,
+      "time": 50330006046294,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 172425493,
+      "price": 232900,
+      "shares": 50,
+      "time": 50330006063071,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 174251997,
+      "price": 232900,
+      "shares": 5,
+      "time": 50443475370057,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 173521817,
+      "price": 232800,
+      "shares": 100,
+      "time": 50443476532142,
+      "tradeType": "E"
+    },
+    {
+      "attribution": " ",
+      "orderReferenceNumber": -1,
+      "price": 232800,
+      "shares": 100,
+      "time": 50443476538593,
+      "tradeType": "P"
+    },
+    {
+      "orderReferenceNumber": 173521805,
+      "price": 232700,
+      "shares": 50,
+      "time": 50443477518797,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 173521805,
+      "price": 232700,
+      "shares": 50,
+      "time": 50443477520246,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 174305185,
+      "price": 232800,
+      "shares": 100,
+      "time": 50443480235919,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 175108401,
+      "price": 232500,
+      "shares": 100,
+      "time": 50575612840943,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 177225737,
+      "price": 232600,
+      "shares": 100,
+      "time": 50754555858830,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 176004977,
+      "price": 232900,
+      "shares": 87,
+      "time": 51057005637350,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 179030529,
+      "price": 233200,
+      "shares": 100,
+      "time": 51057309691466,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 182055665,
+      "price": 233200,
+      "shares": 2,
+      "time": 51455169489702,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 181787537,
+      "price": 233100,
+      "shares": 35,
+      "time": 51455169662211,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 181787537,
+      "price": 233100,
+      "shares": 50,
+      "time": 51455169679465,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 181787537,
+      "price": 233100,
+      "shares": 15,
+      "time": 51455169697543,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 180977009,
+      "price": 233000,
+      "shares": 100,
+      "time": 51455171664569,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 183301997,
+      "price": 233000,
+      "shares": 100,
+      "time": 51455212226264,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 184500481,
+      "price": 232600,
+      "shares": 100,
+      "time": 51711221357886,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 184500481,
+      "price": 232600,
+      "shares": 50,
+      "time": 51711221366598,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 184500481,
+      "price": 232600,
+      "shares": 50,
+      "time": 51711221395054,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 185979785,
+      "price": 233000,
+      "shares": 87,
+      "time": 51975206918278,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 206507601,
+      "price": 233400,
+      "shares": 100,
+      "time": 54227310433328,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 206507605,
+      "price": 233400,
+      "shares": 100,
+      "time": 54227310433328,
+      "tradeType": "E"
+    },
+    {
+      "attribution": " ",
+      "orderReferenceNumber": -1,
+      "price": 233400,
+      "shares": 200,
+      "time": 54227310433328,
+      "tradeType": "P"
+    },
+    {
+      "orderReferenceNumber": 206507641,
+      "price": 233500,
+      "shares": 100,
+      "time": 54470118366330,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 208488777,
+      "price": 233900,
+      "shares": 100,
+      "time": 54506899412964,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 208424593,
+      "price": 234100,
+      "shares": 100,
+      "time": 54506907276427,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 208429857,
+      "price": 234300,
+      "shares": 100,
+      "time": 54506914400925,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 208702889,
+      "price": 234500,
+      "shares": 100,
+      "time": 54506922138472,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 208702901,
+      "price": 234500,
+      "shares": 100,
+      "time": 54506922216811,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 208702909,
+      "price": 234500,
+      "shares": 200,
+      "time": 54506923872598,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 208707313,
+      "price": 234400,
+      "shares": 4,
+      "time": 54512361237875,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 214816465,
+      "price": 234200,
+      "shares": 100,
+      "time": 55325079730357,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 214816497,
+      "price": 234200,
+      "shares": 100,
+      "time": 55325079730357,
+      "tradeType": "E"
+    },
+    {
+      "attribution": " ",
+      "orderReferenceNumber": -1,
+      "price": 234200,
+      "shares": 200,
+      "time": 55325079730357,
+      "tradeType": "P"
+    },
+    {
+      "orderReferenceNumber": 216733913,
+      "price": 234200,
+      "shares": 100,
+      "time": 55601394955010,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 216742225,
+      "price": 234300,
+      "shares": 2,
+      "time": 55631257481578,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 216819101,
+      "price": 234300,
+      "shares": 100,
+      "time": 55631257481578,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 220496421,
+      "price": 234300,
+      "shares": 100,
+      "time": 56134411733254,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 221597957,
+      "price": 234300,
+      "shares": 10,
+      "time": 56415028707922,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 223075933,
+      "price": 234300,
+      "shares": 10,
+      "time": 56415028707922,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 227801469,
+      "price": 234500,
+      "shares": 100,
+      "time": 56860963842465,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 227809861,
+      "price": 234500,
+      "shares": 100,
+      "time": 56883284614024,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 228026421,
+      "price": 234500,
+      "shares": 100,
+      "time": 56883284614024,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 229198485,
+      "price": 234800,
+      "shares": 8,
+      "time": 56996506224354,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 229333537,
+      "price": 234700,
+      "shares": 100,
+      "time": 57262880296532,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 230788825,
+      "price": 234700,
+      "shares": 100,
+      "time": 57262880296532,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 231185973,
+      "price": 234700,
+      "shares": 24,
+      "time": 57262880296532,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 229333485,
+      "price": 234500,
+      "shares": 100,
+      "time": 57291639628036,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 232497589,
+      "price": 234400,
+      "shares": 100,
+      "time": 57525753821856,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 233237941,
+      "price": 234400,
+      "shares": 27,
+      "time": 57525753821856,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 235661197,
+      "price": 234400,
+      "shares": 13,
+      "time": 57525753821856,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 235814309,
+      "price": 234400,
+      "shares": 32,
+      "time": 57525753821856,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 225698389,
+      "price": 234300,
+      "shares": 100,
+      "time": 57525760255683,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 223660217,
+      "price": 234200,
+      "shares": 100,
+      "time": 57527784423945,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 220496437,
+      "price": 234100,
+      "shares": 100,
+      "time": 57554063345191,
+      "tradeType": "E"
+    },
+    {
+      "orderReferenceNumber": 236854905,
+      "price": 234100,
+      "shares": 206,
+      "time": 57585732408132,
+      "tradeType": "E"
+    }
+  ]
+}
